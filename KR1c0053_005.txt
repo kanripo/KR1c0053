@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩傳詩說駁義
-#+DATE: 2015-09-23 09:37:07
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:06:36.632359
+#+PROPERTY: ID KR1c0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1c0053_WYG_005-1a>¶
 欽定四庫全書¶
 　詩傳詩說駁義卷五¶
@@ -254,4 +256,3 @@
 武丁崩子祖庚立祖已嘉武丁之以祥雉為徳立其廟為高¶
 宗則在祖庚時已别立廟矣豈待帝乙乎¶
 　詩傳詩說駁義卷五¶
-
